@@ -15,3 +15,4 @@ public class Main {
         cat.swim(50);
     }
 }
+
